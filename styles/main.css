@@ -1,0 +1,67 @@
+body {
+  background-color: #e9e9e9;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.main-content {
+  background-color: #ffffff;
+  margin: 20px auto;
+  width: 960px;
+}
+
+.page-heading {
+  padding: 20px;
+}
+
+.page-heading .user-link {
+  color: #7db9e8;
+  float: right;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.navigation {
+  background: linear-gradient(#1e5799, #7db9e8);
+  padding:10px;
+}
+
+.navigation a {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0px 10px;
+}
+
+.hero {
+  background-image: url('../images/hero.jpg');
+  height: 300px;
+  width:100%;
+}
+
+.services {
+  margin-top: 10px;
+}
+
+.service {
+  float: left;
+  padding: 20px;
+  width: 280px;
+}
+
+.service .service-image {
+  clear: both;
+  background-color: #7db9e8;
+  border-radius: 50%;
+  Height: 200px;
+  Width: 200px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.service-image img {
+  margin-top: 30px;
+}
+
+.service h2 {
+  text-align: center;
+}
